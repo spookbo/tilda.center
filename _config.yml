@@ -18,15 +18,15 @@ avatar: /images/tilda.jpg
 # Includes an icon in the footer for each username you enter
 footer-links:
   dribbble:
-  email: meka@lugons.org
-  facebook:
+  email:
+  facebook: tildacenter
   flickr:
-  github: mekanix
+  github:
   instagram:
   linkedin:
   pinterest:
-  rss: anything
-  twitter: meka_floss
+  rss:
+  twitter: TildaCenter
   stackoverflow: # your stackoverflow profile, e.g. "users/50476/bart-kiers"
 
 # Your disqus shortname, entering this will enable commenting on posts
