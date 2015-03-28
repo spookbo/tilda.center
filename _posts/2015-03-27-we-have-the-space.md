@@ -1,6 +1,6 @@
 ---
 layout: post
-title: We Have a Space
+title: We Have the Space
 tags:
   - hackerspace
 ---
