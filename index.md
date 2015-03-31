@@ -3,5 +3,6 @@ layout: page
 title: Tilda Center
 ---
 
-Centar za prenos IT znanja, razvoj Cloud tehnologija, regionalno umrežavanje
-mladih stručnjaka kao i za saradnju sa medijima i nevladinim organizacijama.
+Center for transfer of IT knowledge, development of Cloud technologies,
+connecting young experts in the region and collaboration with media and non
+government organizations.
